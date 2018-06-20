@@ -34,9 +34,6 @@ p {
 #details {
   display: block;
   text-align: center;
-  width:1000px;
-}
-#details div {
   float: left;
   width:25%
 }
