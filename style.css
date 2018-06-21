@@ -9,10 +9,9 @@ header {
 }
 
 img {
-  margin: 0 auto;
-  /*display: block;
+  display: block;
   margin-left:auto;
-  margin-right:auto;*/
+  margin-right:auto;
 }
 
 nav>a {
@@ -35,8 +34,6 @@ p {
 #details {
   display:block;
   text-align: center;
-  float: left;
-  width:25%
 }
 
 #details div{
