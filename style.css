@@ -31,17 +31,9 @@ p {
   text-align: center;
 }
 
-#details {
+#details div {
   display:block;
   text-align: center;
-}
-
-#details div{
-  float:left;
-  width:25%;
-}
-
-#details h3{
   float:left;
   width:25%;
 }
